@@ -1,0 +1,10 @@
+torch==1.7.1
+transformers==4.8.2
+torchvision==0.8.2
+accelerate==0.3.0
+datasets==1.2.1
+numpy==1.20.2
+scikit-learn==0.24.0
+h5py==3.3.0
+tqdm==4.49.0
+prettytable==2.1.0
