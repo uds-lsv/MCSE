@@ -1,5 +1,7 @@
 # MCSE: Multimodal Contrastive Learning of Sentence Embeddings
-This repository contains code and pre-trained models for our NAACL-2022 paper [MCSE: Multimodal Contrastive Learning of Sentence Embeddings](). If you find this reposity useful, please consider citing our paper.
+This repository contains code and pre-trained models for our NAACL-2022 paper [MCSE: Multimodal Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2204.10931). If you find this reposity useful, please consider citing our paper.
+
+Contact: Miaoran Zhang (mzhang@lsv.uni-saarland.de)
 
 ## Pre-trained Models & Results
 |**Model** |  **Avg. STS** |
@@ -15,6 +17,7 @@ Note: `flickr` indicates that models are trained on wiki+flickr, and `coco` indi
 ## Quickstart
 ### Setup
 - Python 3.9.5
+- Pytorch 1.7.1
 - Install other packages:
 ```
 pip install -r requirements.txt
