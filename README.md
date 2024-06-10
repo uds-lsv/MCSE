@@ -6,10 +6,10 @@ Contact: Miaoran Zhang (mzhang@lsv.uni-saarland.de)
 ## Pre-trained Models & Results
 |**Model** |  **Avg. STS** |
 |----------|:---------------:|
-| mcse-flickr-bert-base-uncased [[Google Drive]](https://drive.google.com/file/d/1sekuO9Adb9ck7osknvNBlkMCeqfQQgl3/view?usp=sharing) [[Huggingface]](https://huggingface.co/UdS-LSV/mcse-flickr-bert-base-uncased) | 77.70 |
-| mcse-flickr-roberta-base [[Google Drive]](https://drive.google.com/file/d/178cdT_rEMuLx4S5Rc2GPfrF0xc027l8Y/view?usp=sharing) [[Huggingface]](https://huggingface.co/UdS-LSV/mcse-flickr-roberta-base) | 78.44 |
-| mcse-coco-bert-base-uncased [[Google Drive]](https://drive.google.com/file/d/1iPsfLzc4sYi_GYJMg4DYF_ODJ_BheA9E/view?usp=sharing) [[Huggingface]](https://huggingface.co/UdS-LSV/mcse-coco-bert-base-uncased) | 77.08 |
-| mcse-coco-roberta-base [[Google Drive]](https://drive.google.com/file/d/11EjKgp4XEsvU5xyH3OBa6ULmu3RbTIY-/view?usp=sharing) [[Huggingface]](https://huggingface.co/UdS-LSV/mcse-coco-roberta-base) | 78.17 |
+| mcse-flickr-bert-base-uncased [[Google Drive](https://drive.google.com/file/d/1sekuO9Adb9ck7osknvNBlkMCeqfQQgl3/view?usp=sharing)] [[Huggingface](https://huggingface.co/UdS-LSV/mcse-flickr-bert-base-uncased)] | 77.70 |
+| mcse-flickr-roberta-base [[Google Drive](https://drive.google.com/file/d/178cdT_rEMuLx4S5Rc2GPfrF0xc027l8Y/view?usp=sharing)] [[Huggingface](https://huggingface.co/UdS-LSV/mcse-flickr-roberta-base)] | 78.44 |
+| mcse-coco-bert-base-uncased [[Google Drive](https://drive.google.com/file/d/1iPsfLzc4sYi_GYJMg4DYF_ODJ_BheA9E/view?usp=sharing)] [[Huggingface](https://huggingface.co/UdS-LSV/mcse-coco-bert-base-uncased)] | 77.08 |
+| mcse-coco-roberta-base [[Google Drive](https://drive.google.com/file/d/11EjKgp4XEsvU5xyH3OBa6ULmu3RbTIY-/view?usp=sharing)]  [[Huggingface](https://huggingface.co/UdS-LSV/mcse-coco-roberta-base)] | 78.17 |
 
 Note: `flickr` indicates that models are trained on wiki+flickr, and `coco` indicates that models are trained on wiki+coco. 
 
