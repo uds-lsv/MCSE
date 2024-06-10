@@ -1,15 +1,15 @@
 # MCSE: Multimodal Contrastive Learning of Sentence Embeddings
-This repository contains code and pre-trained models for our NAACL-2022 paper [MCSE: Multimodal Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2204.10931). If you find this reposity useful, please consider citing our paper.
+This repository contains code and pre-trained models for our NAACL-2022 paper [MCSE: Multimodal Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2204.10931). If you find this repository useful, please consider citing our paper.
 
 Contact: Miaoran Zhang (mzhang@lsv.uni-saarland.de)
 
 ## Pre-trained Models & Results
 |**Model** |  **Avg. STS** |
 |----------|:---------------:|
-| flickr-mcse-bert-base-uncased [[Google Drive]](https://drive.google.com/file/d/1sekuO9Adb9ck7osknvNBlkMCeqfQQgl3/view?usp=sharing) | 77.70 |
-| flickr-mcse-roberta-base [[Google Drive]](https://drive.google.com/file/d/178cdT_rEMuLx4S5Rc2GPfrF0xc027l8Y/view?usp=sharing) | 78.44 |
-| coco-mcse-bert-base-uncased [[Google Drive]](https://drive.google.com/file/d/1iPsfLzc4sYi_GYJMg4DYF_ODJ_BheA9E/view?usp=sharing)| 77.08 |
-| coco-mcse-roberta-base [[Google Drive]](https://drive.google.com/file/d/11EjKgp4XEsvU5xyH3OBa6ULmu3RbTIY-/view?usp=sharing)| 78.17 |
+| mcse-flickr-bert-base-uncased [[Google Drive]](https://drive.google.com/file/d/1sekuO9Adb9ck7osknvNBlkMCeqfQQgl3/view?usp=sharing) [[Huggingface]](https://huggingface.co/UdS-LSV/mcse-flickr-bert-base-uncased) | 77.70 |
+| mcse-flickr-roberta-base [[Google Drive]](https://drive.google.com/file/d/178cdT_rEMuLx4S5Rc2GPfrF0xc027l8Y/view?usp=sharing) [[Huggingface]](https://huggingface.co/UdS-LSV/mcse-flickr-roberta-base) | 78.44 |
+| mcse-coco-bert-base-uncased [[Google Drive]](https://drive.google.com/file/d/1iPsfLzc4sYi_GYJMg4DYF_ODJ_BheA9E/view?usp=sharing) [[Huggingface]](https://huggingface.co/UdS-LSV/mcse-coco-bert-base-uncased) | 77.08 |
+| mcse-coco-roberta-base [[Google Drive]](https://drive.google.com/file/d/11EjKgp4XEsvU5xyH3OBa6ULmu3RbTIY-/view?usp=sharing) [[Huggingface]](https://huggingface.co/UdS-LSV/mcse-coco-roberta-base) | 78.17 |
 
 Note: `flickr` indicates that models are trained on wiki+flickr, and `coco` indicates that models are trained on wiki+coco. 
 
